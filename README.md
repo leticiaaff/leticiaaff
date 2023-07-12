@@ -4,6 +4,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leticiaaff&theme=radical&hide_border=false)<br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaaff&theme=radical&layout=compact)
+
 ##
 <div> 
   <a href="https://www.linkedin.com/in/leticia-franca-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
